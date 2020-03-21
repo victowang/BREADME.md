@@ -8,11 +8,15 @@
 [Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 
 A recipe is a lot like an algorithm, so why not write them the way we document code **¯\\\_(ツ)_/¯** ?  
-Here you will find what I have to share about baking bread at home.
+Here, you will find what I have to share about baking bread at home.
 
 ## Why I make bread :
-I once asked myself : how does bread from supermarkets stay soft for so long ? Than answer can be found on the ingredients list on the packet.  
-For most of humanity's history, bread was simple and made with very few ingredients : flour, water, and salt. What about yeast ? It is convenient and fast but if we want to go back to the roots of bread, we have to tame some wild yeast to make what is called a "sourdough starter" or "levain". To learn how to do that, click [here](starter_creation.md).
+I once asked myself : how does bread from supermarkets stay soft for so long ? The answer can easily be found by reading the ingredient list on store-bought bread.  
+
+For most of humanity's history, bread was simple and made with very few ingredients : flour, water, and salt. What about yeast ? Bread was traditionnaly naturally levened using a "sourdough starter" or "levain", which is made by creationg a nice environment for beneficial bacteria and wild yeast to live in.
+
+I enjoy cooking and craftsmanship, bread baking fits right in between and I am addicted to it because there is so much to learn : how the ingredients affect the texture and flavour, how I handle the dough, how to manage proper fermentation...  
+Bread baking is a truly delicious hobby.
 
 ## What I learned from baking bread :
 
@@ -26,16 +30,16 @@ Life is sometimes unpredictable, there is no step by step guide to success, and 
 ## Guides :
 
 ##### Understanding Baker's percentage :
-[bakers_percentage.md](bakers_percentage.md)
+[bakers_percentage.md](guides/bakers_percentage.md)
 
 ##### What I use to make bread :  
 [requirements.txt](requirements.txt)
 
 ##### How to make sourdough starter :  
-[starter_creation.md](starter_creation.md)
+[starter_creation.md](guides/starter_creation.md)
 
 ##### How I maintain my sourdough starter :  
-[starter_maintenance.md](starter_maintenance.md)
+[starter_maintenance.md](guides/starter_maintenance.md)
 
 ##### Methodology to make a rustic sourdough loaf :  
-[basic_sourdough.md](basic_sourdough.md)
+[basic_sourdough.md](guides/basic_sourdough.md)
