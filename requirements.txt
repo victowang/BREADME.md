@@ -1,0 +1,7 @@
+time
+hands
+mixing_bowl
+dough_scraper
+razor_blade
+dutch_oven
+oven
