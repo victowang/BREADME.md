@@ -12,7 +12,7 @@ The recipe is scaled for a loaf made with 500g of flour.
 * __50 g__ starter (10%)
 * __6~8 g__ salt (<= 2%)
 
-#### Notes 
+#### Notes :
 * If you are just starting, reduce the hydration to around 65%, it will make the dough less sticky and easier to handle.   
 * Feel free to tune the percentage of Whole-Wheat flour to yout liking, just be aware that Whole-Wheat absorbs more water and makes the dough a bit weaker. I have gone up to 20% Whole-Wheat flour without it affectiing the process.
 * Adjust the amount of salt to your taste.
@@ -21,7 +21,7 @@ The recipe is scaled for a loaf made with 500g of flour.
 The making of this load is split in two days and if taking acount the starter feedings before, it is a process spread over a few days. Let's say that day **d** is the day you want the bread to be baked. Here is a typycal schedule that I would follow :
 
 ### d-2 :  
-* __12 p.m. :__ discard exess starter to and leave about 5g, feed 5g flour, 5g water to get about 15g starter 
+* __12 p.m. :__ discard excess starter to and leave about 5g, feed 5g flour, 5g water to get about 15g starter 
 
 ### d-1 :  
 * __12 a.m. :__ feed starter with 20g flour, 20g water. you now have a bit more than 50g of starter 
@@ -36,7 +36,7 @@ The making of this load is split in two days and if taking acount the starter fe
 * __8:30 a.m. :__ final shaping
 * __12 a.m. :__ bake, if retarting, bake when you are available in the evening 
 
-#### Notes 
+#### Notes :
 * On __d-1__ the given time __7 p.m.__ is not important , you can start anywhere between 6 p.m and 9 p.m. with similar results. You just need to have enough time to give the dough a few S&F to impart some strenght to the dough.
 
 ## Detailed steps :

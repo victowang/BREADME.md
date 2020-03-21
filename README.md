@@ -43,3 +43,6 @@ Life is sometimes unpredictable, there is no step by step guide to success, and 
 
 ##### Methodology to make a rustic sourdough loaf :  
 [basic_sourdough.md](guides/basic_sourdough.md)
+
+##### Methodology to make a simple bread dough with baker's yeast:  
+[basic_yeasted_bread.md](guides/basic_yeasted_bread.md)
