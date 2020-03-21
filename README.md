@@ -13,7 +13,7 @@ Here, you will find what I have to share about baking bread at home.
 ## Why I make bread :
 I once asked myself : how does bread from supermarkets stay soft for so long ? The answer can easily be found by reading the ingredient list on store-bought bread.  
 
-For most of humanity's history, bread was simple and made with very few ingredients : flour, water, and salt. What about yeast ? Bread was traditionnaly naturally levened using a "sourdough starter" or "levain", which is made by creationg a nice environment for beneficial bacteria and wild yeast to live in.
+For most of humanity's history, bread was simple and made with very few ingredients : flour, water, and salt. What about yeast ? Bread was traditionnaly naturally levened using a "sourdough starter" or "levain", which is made by creationg a nice environment for beneficial bacteria and wild yeast to live in. The resulting bread has a sour flavour, hence the name "sourdough" and stays fresh a bit longer than regular yeasted bread because an acidic environment is less welcoming for mould.
 
 I enjoy cooking and craftsmanship, bread baking fits right in between and I am addicted to it because there is so much to learn : how the ingredients affect the texture and flavour, how I handle the dough, how to manage proper fermentation...  
 Bread baking is a truly delicious hobby.
@@ -44,5 +44,13 @@ Life is sometimes unpredictable, there is no step by step guide to success, and 
 ##### Methodology to make a rustic sourdough loaf :  
 [basic_sourdough.md](guides/basic_sourdough.md)
 
-##### Methodology to make a simple bread dough with baker's yeast:  
+##### Methodology to make a simple bread dough with baker's yeast :  
 [basic_yeasted_bread.md](guides/basic_yeasted_bread.md)
+
+##### Naan bread :
+[in progress]
+
+## Helper scripts to make baking easier :
+
+##### Planner for feeding your starter :
+[in progress]
