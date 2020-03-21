@@ -1,1 +1,1 @@
-# How I maintain my sourgough starter
+# How to maintain a sourgough starter
