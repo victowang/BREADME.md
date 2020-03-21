@@ -1,6 +1,5 @@
 # Basic sourdough
-
-![basic_sourdough_loaf](imgs/IMG_20200318_171731_549.jpg){ width=50% }
+<img src="/imgs/IMG_20200318_171731_549.jpg" alt="basic_sourdough_loaf"	width="50%" />  
 
 My go-to sourdough bread method :
 It is made to fit in the everyday schedule of a student/worker.  
