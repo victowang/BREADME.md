@@ -34,8 +34,7 @@ The making of this load is split in two days and if taking acount the starter fe
 ### d-0 : 
 * __8 a.m. :__ divide (if making more than one loaf) and preshape
 * __8:30 a.m. :__ final shaping
-* __12 a.m. :__ if not retarding, bake
-* __?? p.m. :__ if retarding, bake
+* __12 a.m. :__ bake, if retarting, bake when you are available in the evening 
 
 #### Notes 
 * On __d-1__ the given time __7 p.m.__ is not important , you can start anywhere between 6 p.m and 9 p.m. with similar results. You just need to have enough time to give the dough a few S&F to impart some strenght to the dough.
@@ -86,20 +85,20 @@ We are going to do the final shaping of the dough, have your final proofing bask
 
 ### Final proofing :
 If you are at home and have some time around 12 a.m., let the dough proof 2 to 4 hours. The dough should grow a little bigger. I haven't figured the optimal proofing time, but 3,5 hours fitted my schedule (after my morning classes).  
-If not available mid-day to bake (most likely for a working schedule), put the dough in the fridge : it will slow down the yeast activity significantly and make your schedule more flexible. You can then bake the loaf (stright from the fridge) when you are available in the evening. This is called retarding the dough, the resulting bread should have sourer taste as acid producing bacteria are still active at lower temperatures.
+If not available mid-day to bake (most likely for a working schedule), put the dough in the fridge : it will slow down the yeast activity significantly and make your schedule more flexible. You can then bake the loaf (stright from the fridge) when you are available in the evening. This is called **retarding** the dough, the resulting bread should have sourer taste as acid producing bacteria are still active at lower temperatures.
 
 ### Baking :
 40 min to 1h before baking, preheat your dutch oven in your oven set at 250°C.  
 Putting the dough in the fridge for 30 min before baking can help make the dough firmer and therefore easier to manipulate and score.  
-- If you use a regular dutch oven (like I do), from the proofing basket, flip the dough in the dutch oven. Be **very carefully**, the sides of the pot are sreaming hot and you do not want to get burned. Use a razor blade attached to a skewer / chopstick to score the bread ( for example a cross on a round boule and a single line across the loaf for an oblong one).  
+- If you use a regular dutch oven (like I do), from the proofing basket, flip the dough in the dutch oven. Be **very carefully**, the sides of the pot are sreaming hot and you do not want to get burned. Use a razor blade attached to a skewer / chopstick to score the bread ( for example a cross on a round boule and a single line across the loaf for an oblong one). Put the lid on and put in the oven.
 - If you have a combo cooker (cast iron pan with a large pot as a lid), flip the dough on the preheated pan. This should be much simpler as you do not have to worry about the hot sides of the pot.
 
-- If you do not have such equipement, flip the dough on a preheated pizza stone or a baking sheet.
+- If you do not have such equipement, flip the dough on a preheated pizza stone or a baking sheet, score then put is the oven.
 
-A cool trick to make transfering the dough in the hot dutch oven with less risks is to cut baking paper into a circle with two handles and place it on a flat plate / board. Flip the dough on the cut piece of paper. You can easily score the bread now.
+A cool trick to make transfering the dough in the hot dutch oven with less risky is to cut baking paper into a circle with two handles and place it on a flat plate / board. Flip the dough on the cut piece of paper. You can easily score the bread now. Holding the bread using the cut handles, carefully place the dough in the hot dutch oven.
 
 ##### Notes on scoring :
-
+Ideally you should score the dough at an angle (45°) to get a beautiful "ear" on the baked loaf.
 
 ## Variations
 
