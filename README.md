@@ -1,4 +1,4 @@
-# Welcome to BREADME.md
+# Welcome to BREADME.md 🍞
 
 ## What is this ?
 >A recipe is a set of **instructions** that describes how to prepare or make something, especially a dish of prepared food.  
@@ -54,3 +54,10 @@ Life is sometimes unpredictable, there is no step by step guide to success, and 
 
 ##### Planner for feeding your starter :
 [in progress]
+
+## Where I learned from :
+- TARTINE BREAD by Chad Robertson
+- [Breadwerx](http://www.breadwerx.com/)
+- [The Perfect Loaf](https://www.theperfectloaf.com/)
+- [The Fresh Loaf](https://www.thefreshloaf.com/)
+- [Full Proof Baking](https://www.youtube.com/channel/UCym_8JHA4htlFLIHGpNZGrQ)
