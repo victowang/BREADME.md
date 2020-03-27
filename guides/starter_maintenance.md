@@ -29,6 +29,14 @@ I feed my starter with a ratio of 1:1:1 every 24 to 12 hours (24 hours for maint
 
 Using a small spatula, a spoon or a chopstick mix starter, water and flour until combined, cover and place your starter covered with in a warm place out of direct su,light (UV light kills micro-organisms).
 
+You could build a stronger starter by slowly reducing the innoculation when feeding (reducing the amount of mature starter compared to the amount of new food) for example with a ratio of 1:3:3 or more. You could probably get a starter that triples in size of more. I don't make enough bread to be able tu sustain such a rythm without having too much excess starter and I am pretty happy with the results I get with my starter def at 1:1:1. 
+
+### Monitoring :
+I like to wrap a rubber band around the container of my starter. I set the rubber band at the height of the starter right after feeding it, the rubber band marks how high the starter was initially, then you can see how much is grown compared to the innitial amount. Your starter is good enough to make bread when it can consistently double in size in less than 12 hours. 
+
+If you want to be geeky about it, I have found this repository on github :  
+https://github.com/justinmklam/sourdough-starter-monitor
+
 ### Storing it :
 If you don't plan to bake bread in the next few days, you can put your starter in the fridge for up to a week (maybe more).  
 Feed it (maybe with a bit less water, as a drier dough is less active) and put it in the fridge.  
@@ -46,7 +54,7 @@ Plan you bakes ahead so that you make just a bit more than the amount of starter
 ## Ideas to use excess starter
 
 #### Share it
-Give a bit of your starter to friends and family who are interested in making sourdough bread, it should give them a quickstart. Make the bread baking comminity grow ;)
+Give a bit of your starter to friends and family who are interested in making sourdough bread, it should give them a quickstart. Make the bread baking community grow ;)
 
 #### Dry it 
 Dry it as explained before and keep it as a backup in case something goes wrong with your current starter.
@@ -62,7 +70,7 @@ Add a your excess starter to bread dough (yeasted or not), here are a fex exampl
 You can find many reciped on sourdough pancakes online, I havent tried it yet.
 
 #### Crackers ?
-Mix some flour, olive oil, salt and discarded starter + flavourings (dried herbs, lemon zest, seeds...) into a stiff but smooth dough and let it rest, roll it into a thin sheet and cut into whatever shape you like. You can also shape them like small gressins.
+Mix some flour, olive oil, salt and discarded starter + flavourings (dried herbs, lemon zest, seeds...) into a stiff but smooth dough and let it rest, roll it into a thin sheet and cut into whatever shape you like. You can also shape them like small bread sticks / grissini.
 
 #### Compost it
 It is fine to compost it, it is better than trowing it away.
