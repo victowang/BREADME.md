@@ -95,7 +95,7 @@ Putting the dough in the fridge for 30 min before baking can help make the dough
 
 - If you do not have such equipement, flip the dough on a preheated pizza stone or a baking sheet, score then put is the oven.
 
-A cool trick to make transfering the dough in the hot dutch oven with less risky is to cut baking paper into a circle with two handles and place it on a flat plate / board. Flip the dough on the cut piece of paper. You can easily score the bread now. Holding the bread using the cut handles, carefully place the dough in the hot dutch oven.
+A cool trick to make transfering the dough in the hot dutch oven with less risky is to cut baking paper into a circle with two handles and place it on a flat plate / board. Flip the dough on the cut piece of paper. You can easily score the bread now. Holding the bread using the cut handles, carefully place the dough in the hot dutch oven. You can reuse this piece of paper 2 ~ 3 times before it becomes brittle.
 
 ##### Notes on scoring :
 Ideally you should score the dough at an angle (45°) to get a beautiful "ear" on the baked loaf.
