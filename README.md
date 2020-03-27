@@ -13,9 +13,10 @@ Here, you will find what I have to share about baking bread at home.
 ## Why I make bread :
 I once asked myself : how does bread from supermarkets stay soft for so long ? The answer can easily be found by reading the ingredient list on store-bought bread.  
 
-For most of humanity's history, bread was simple and made with very few ingredients : flour, water, and salt. What about yeast ? Bread was traditionnaly naturally levened using a "sourdough starter" or "levain", which is made by creationg a nice environment for beneficial bacteria and wild yeast to live in. The resulting bread has a sour flavour, hence the name "sourdough" and stays fresh a bit longer than regular yeasted bread because an acidic environment is less welcoming for mould.
+For most of humanity's history, bread was simple and made with very few ingredients : flour, water, and salt. What about yeast ? Bread was traditionnaly naturally levened using a "sourdough starter" or "levain", which is made by creating a cozy environment for beneficial bacteria and wild yeast to thrive in. The resulting bread has a sour flavour, hence the name "sourdough" and stays fresh a bit longer than bread made using commercial yeast because an acidic environment is less welcoming for mould.
 
-I enjoy cooking and craftsmanship, bread baking fits right in between and I am addicted to it because there is so much to learn : how the ingredients affect the texture and flavour, how I handle the dough, how to manage proper fermentation...  
+I have always been attracted to ancient crafts and skills, I plan on doing some blacksmithing eventually, but fitting a forge in a small student room isn't a great idea... The best thing I found was to combine my desire to create with my passion for food and bake bread : I still have the feeling of subliming raw materials into something beautiful, but with a smaller oven.  
+I am now addicted to it because there is so much to learn : how the ingredients affect the texture and flavour, how to handle the dough, how to manage proper fermentation...  
 Bread baking is a truly delicious hobby.
 
 ## What I learned from baking bread :
@@ -29,7 +30,7 @@ Life is sometimes unpredictable, there is no step by step guide to success, and 
 
 ## Guides :
 
-##### Understanding Baker's percentage :
+##### Understanding Baker's percentage and how to read bread recipes :
 [bakers_percentage.md](guides/bakers_percentage.md)
 
 ##### What I use to make bread :  

@@ -10,24 +10,23 @@ The recipe is scaled for a loaf made with 500g of flour.
 * __50 g__ Whole-Wheat flour (10%)
 * __350 g__ water (70%)
 * __50 g__ starter (10%)
-* __6~8 g__ salt (<= 2%)
+* __5~10 g__ salt (1~2%)
 
 #### Notes :
 * If you are just starting, reduce the hydration to around 65%, it will make the dough less sticky and easier to handle.   
 * Feel free to tune the percentage of Whole-Wheat flour to yout liking, just be aware that Whole-Wheat absorbs more water and makes the dough a bit weaker. I have gone up to 20% Whole-Wheat flour without it affectiing the process.
-* Adjust the amount of salt to your taste.
 
 ## Schedule
-The making of this load is split in two days and if taking acount the starter feedings before, it is a process spread over a few days. Let's say that day **d** is the day you want the bread to be baked. Here is a typycal schedule that I would follow :
+The making of this loaf is split in two days. Let's say that day **d** is the day you want the bread to be baked. Here is a typycal schedule that I would follow :
 
 ### d-2 :  
-* __12 p.m. :__ discard excess starter to and leave about 5g, feed 5g flour, 5g water to get about 15g starter 
+* __12 p.m. :__ Discard excess starter (A few ideas to reduce waste [here](/guides/starter_maintenance.md)) to and leave about 5g (what is stuck in the container and spatula should be enough), feed 5g flour, 5g water to get about 15g starter 
 
 ### d-1 :  
-* __12 a.m. :__ feed starter with 20g flour, 20g water. you now have a bit more than 50g of starter 
-* __7 p.m. :__ mix all the ingredients until all the flour is hydrated
-* __7:30 :__ knead the dough with a scooping motion until smooth and the bowl is mostly clean, cover with lid / towel
-* __Every 30 min until going to bed :__ with a wet hand, stretch and fold (4 sides)
+* __12 a.m. :__ Feed starter with 20g flour, 20g water. you now have a bit more than 50g of starter 
+* __7 p.m. :__ Your starter should have doubled in size. Mix all the ingredients until all the flour is hydrated
+* __7:30 :__ Knead the dough with a scooping motion until smooth and the bowl is mostly clean, cover with lid / towel
+* __Every 30min / 1h until going to bed :__ With a wet hand, stretch and fold (4 sides)
 
 * __Bulk proof :__ Let it ferment overnight covered
 
@@ -57,8 +56,8 @@ Repeat with the three remaining sides.
 
 ### Overnight fermentation :
 Let the dough sit overnight covered so it doesn't dry.
-This step will give the dough of time to ferment, the bacteria will make de dough slightly sour and the yeast will eat sugars in the flour to produce precious gas bubble that make our bread airy and not just a dense brick. 
-Making sourdough bread takes time, and making it from start to finish in a day makes it quite complicated to fit in a working day. When I started to make sourdough bread, I had a hard time (and I still do) figuring out whether the dough was ready or not. The solution I found was to give it plenty of time by letting ferment overnight. With this process, the dough is always sufficiently fermented and aerated and it just fitted my schedule a lot better.
+This step will give the dough of time to ferment, the bacteria will make de dough slightly sour and the yeast will eat sugars in the flour to produce precious gas bubble that make our bread airy.   
+Making sourdough bread takes time, and making it from start to finish in a day makes it quite complicated to fit in a working day. When I started to make sourdough bread, I had a hard time (and I still do) figuring out when the dough was well fermented. The solution I found was to give it plenty of time by letting ferment overnight. With this process, the dough is always sufficiently fermented and aerated and it just fitted my schedule a lot better.
 The next morning, the dough should be about doubled in size, with a few bubbles on the surface of the dough.
 
 This is not the process I read from experienced and perfectionist bakers, my bulk fermentation is probably too long and at the end of the bulk fermentation the dough is too fragile and you will lose some air bubbles when manupulating it. Maybe reducing the innoculation rate (amount of starter in the dough) could make it a bit better but I have not tried yet. I am not trying to make a perfect loaf, just one that is easy to make and can fit in the everyday schedule of a working person. 
