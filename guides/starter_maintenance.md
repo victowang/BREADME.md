@@ -27,7 +27,7 @@ I haven't had any issues with feeding my starter directly from the tap, it might
 ### Feeding it :
 I feed my starter with a ratio of 1:1:1 every 24 to 12 hours (24 hours for maintaining, 12 hours before making bread), which means for 1g of mature starter, I add 1g of flour and 1g of water.
 
-Using a small spatula, a spoon or a chopstick mix starter, water and flour until combined, cover and place your starter covered with in a warm place out of direct su,light (UV light kills micro-organisms).
+Using a small spatula, a spoon or a chopstick mix starter, water and flour until combined, cover and place your starter covered with in a warm place out of direct sunlight.
 
 You could build a stronger starter by slowly reducing the innoculation when feeding (reducing the amount of mature starter compared to the amount of new food) for example with a ratio of 1:3:3 or more. You could probably get a starter that triples in size of more. I don't make enough bread to be able tu sustain such a rythm without having too much excess starter and I am pretty happy with the results I get with my starter def at 1:1:1. 
 
