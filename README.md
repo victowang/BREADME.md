@@ -51,7 +51,8 @@ Life is sometimes unpredictable, there is no step by step guide to success, and 
 ##### Naan bread :
 [in progress]
 
-## Helper scripts to make baking easier :
+## Helper scripts for bread baking :
+I would like to write programs to assist the bread making process (like planning or analyzing previous bakes to gain experience) and make it more accessible.
 
 ##### Planner for feeding your starter :
 [in progress]
@@ -62,3 +63,19 @@ Life is sometimes unpredictable, there is no step by step guide to success, and 
 - [The Perfect Loaf](https://www.theperfectloaf.com/)
 - [The Fresh Loaf](https://www.thefreshloaf.com/)
 - [Full Proof Baking](https://www.youtube.com/channel/UCym_8JHA4htlFLIHGpNZGrQ)
+
+## Other content :
+Has bread making peaked your interest for other fermented foods ?
+I will write my experiences with making other types of fermented food.
+- kimchi (Korean spicy fermented cabbage)
+- saurkraut (Fermented cabbage)
+- miso (japanese fermented soybean paste)
+- kombucha (fermented tea drink)
+- water kefir (fermented drink)
+- kvass (fermented bread drink)
+- tepache (Mexican fermented pinaple drink)
+- beer ?
+- sake ?
+- natto ?
+- amazake ?
+- menma ?

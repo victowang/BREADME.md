@@ -1,6 +1,10 @@
 # How to make your own sourdough starter
 
-Making a sourdough starter is simple, it only takes flour, water and time. You want to create a nice environment with plenty of food for good yeast and bacteria (lactobacillus). The wild yeast and bacteria are not hard to find, they are everywhere : in flour, in the air and on your hands.
+Making a sourdough starter is simple, it only takes flour, water and time. You want to create a nice environment with plenty of food for good yeast and bacteria. 
+
+Do not freak out about this being dangerous for your health, the bacteria we are trying to get are a strain of lactobacilius (like the ones used in yogurt) and the yeast are similar to commercial yeast but are a bit slower. Plus the starter will become acidic, which makes it unwelcomng for bad microbes. Plus your starter should ends up in cooked so nothing to worry about.  
+
+The wild yeast and bacteria are not hard to find, they are everywhere : in flour, in the air and on your hands.
 
 So we want to mix flour and water to give it a wet environment and food. We want it to breathe so that you can attract wild yeast from the air but prevent dust and bugs from going into it, fruit flies may be attracted to it as it smells like a bit vinegary (like decomposing fruits...).
 We also want it to be in a warm place, preferably between 20°C and 25°C and out of direct sunlight (UV kills micro-organisms).
@@ -23,7 +27,7 @@ After feeding, it should smell like fresh flour, a bit sweet.
 
 A few days after starting, you should notice that the smell of your starter before feeding change. It will start a bit funky and not particularly pleasant but don't despair, our desired organisms haven't fully colonized the starter yet.
 
-Within less than a week, you should see your starter becoming bubbly, it might be tempting to start baking bread with it but it is not ready yet. This peak in activity is due to the presence of yeast. Those organisms will eats the sugars un the flour and release acid (lactic acid and acetic acid) as a byproduct. The environment should become acidic and less welcoming for unwanted bacteria (mould or bad microbes).  
+Within less than a week, you should see your starter becoming bubbly, it might be tempting to start baking bread with it but it is not ready yet. This peak in activity is due to the presence of yeast. Those organisms will eats the sugars un the flour and release acid (lactic acid and acetic acid) as a byproduct. The environment should become acidic and less welcoming for unwanted bacteria (mould or bad microbes).
 
 After this peak of activity, the microbe population will have changed and will be mostly occupied by a symbiotic (mutually beneficial) colony of bacteria and yeast that thrive un acidic environments.
 
