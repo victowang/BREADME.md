@@ -1,7 +1,5 @@
 # Welcome to BREADME.md 🍞
 
-[Website version](https://victowang.github.io/BREADME.md/)
-
 ## What is this ?
 >A recipe is a set of **instructions** that describes how to prepare or make something, especially a dish of prepared food.  
 [Wikipedia](https://en.wikipedia.org/wiki/Recipe)
