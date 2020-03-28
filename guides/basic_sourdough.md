@@ -1,5 +1,5 @@
 # Basic sourdough
-<img src="/imgs/IMG_20200318_171731_549.jpg" alt="basic_sourdough_loaf"	width="50%" />  
+<img src="/imgs/basic_sourdough.jpg" alt="basic_sourdough_loaf"	width="50%" />  
 
 My go-to sourdough bread method :
 It is made to fit in the everyday schedule of a student/worker.  
@@ -83,6 +83,7 @@ We are going to do the final shaping of the dough, have your final proofing bask
 - Lift the dough using your scraper and gently flip it into the proofing basket (seam side up)
 - Sprinkle some more flour of the exposed side of the dough
 - To prevent drying, if using a collander and towel, fold the edges of the towel over the dough, is using a banneton put the whole banneton is a large zip-lock bag or cover with a shower cap.
+
 
 ### Final proofing :
 If you are at home and have some time around 12 a.m., let the dough proof 2 to 4 hours. The dough should grow a little bigger. I haven't figured the optimal proofing time, but 3,5 hours fitted my schedule (after my morning classes).  
