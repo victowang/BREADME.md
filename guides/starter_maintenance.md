@@ -4,7 +4,7 @@
 ### Feeding ratio :
 The feeding ratio, writen __x:y:z__ defines how much you feed you starter :
 
-If you have __x__ grams of mature starter, you will feed it __y*x__ grams of flour and __z*x__ grams of water.
+If you have __x__ grams of mature starter, you will feed it __y\*x__ grams of flour and __z\*x__ grams of water.
 I keep equal amounts of water and fresh flour, so that the starter is at __z/y = 100%__ hydration.  
 
 You could reduce the amount of water if you wish to have a stiff starter, it should slow it's activity and may be good if you live in a place where it is too warm.
