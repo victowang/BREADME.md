@@ -54,6 +54,8 @@ To do it:
 Slide a wet hand under one side of the dough, pull it up and fold it onto the dough.
 Repeat with the three remaining sides.
 
+You can perform fewer Stretch & Fold or skip them if you wish to get make the process simpler. The result might be a little bit less pretty : it may have a smaller oven spring (how much is grows when baking), look less round and have a tighter crumb. I find satisfaction in seeing a beautiful looking loaf coming out of the oven and I am always exited to slice it to see the crumb. It is worth the effort for me but if you are busy (or lazy) feel free to skip this step.
+
 ### Overnight fermentation :
 Let the dough sit overnight covered so it doesn't dry.
 This step will give the dough of time to ferment, the bacteria will make de dough slightly sour and the yeast will eat sugars in the flour to produce precious gas bubble that make our bread airy.   

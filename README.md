@@ -67,15 +67,17 @@ I would like to write programs to assist the bread making process (like planning
 ## Other content :
 Has bread making peaked your interest for other fermented foods ?
 I will write my experiences with making other types of fermented food.
-- kimchi (Korean spicy fermented cabbage)
-- saurkraut (Fermented cabbage)
+- kimchi (Korean fermentedspicy cabbage)
+- saurkraut (fermented cabbage)
 - miso (japanese fermented soybean paste)
-- kombucha (fermented tea drink)
-- water kefir (fermented drink)
-- kvass (fermented bread drink)
-- tepache (Mexican fermented pinaple drink)
-- beer ?
-- sake ?
-- natto ?
-- amazake ?
-- menma ?
+- kombucha (fermented tea beverage)
+- water kefir (fermented beverage)
+- kvass (fermented bread beverage)
+- tepache (Mexican fermented pinaple beverage)
+- ginger beer (fermented ginger beverage)
+- beer (fermented cereals beverage)
+- sake (fermented rice wine)
+- natto (fermented soybeans)
+- amazake (fermented rice porridge)
+- koji (rice with Aspergillus oryzae)
+- menma (fermented bamboo shoots)
