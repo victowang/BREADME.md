@@ -64,9 +64,9 @@ I would like to write programs to assist the bread making process (like planning
 - [The Fresh Loaf](https://www.thefreshloaf.com/)
 - [Full Proof Baking](https://www.youtube.com/channel/UCym_8JHA4htlFLIHGpNZGrQ)
 
-## Other content :
+## Other content [in progress]:
 Has bread making peaked your interest for other fermented foods ?
-I will write my experiences with making other types of fermented food.
+I will write about my experiences making other types of fermented food.
 - kimchi (Korean fermentedspicy cabbage)
 - saurkraut (fermented cabbage)
 - miso (japanese fermented soybean paste)
