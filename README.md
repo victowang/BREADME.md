@@ -13,9 +13,10 @@ Here, you will find what I have to share about baking bread at home.
 ## Why I make bread :
 I once asked myself : how does bread from supermarkets stay soft for so long ? The answer can easily be found by reading the ingredient list on store-bought bread.  
 
-For most of humanity's history, bread was simple and made with very few ingredients : flour, water, and salt. What about yeast ? Bread was traditionnaly naturally levened using a "sourdough starter" or "levain", which is made by creationg a nice environment for beneficial bacteria and wild yeast to live in. The resulting bread has a sour flavour, hence the name "sourdough" and stays fresh a bit longer than regular yeasted bread because an acidic environment is less welcoming for mould.
+For most of humanity's history, bread was simple and made with very few ingredients : flour, water, and salt. What about yeast ? Bread was traditionnaly naturally levened using a "sourdough starter" or "levain", which is made by creating a cozy environment for beneficial bacteria and wild yeast to thrive in. The resulting bread has a sour flavour, hence the name "sourdough" and stays fresh a bit longer than bread made using commercial yeast because an acidic environment is less welcoming for mould.
 
-I enjoy cooking and craftsmanship, bread baking fits right in between and I am addicted to it because there is so much to learn : how the ingredients affect the texture and flavour, how I handle the dough, how to manage proper fermentation...  
+I have always been attracted to ancient crafts and skills, I plan on doing some blacksmithing eventually, but fitting a forge in a small student room isn't a great idea... The best thing I found was to combine my desire to create with my passion for food and bake bread : I still have the feeling of subliming raw materials into something beautiful, but with a smaller oven.  
+I am now addicted to it because there is so much to learn : how the ingredients affect the texture and flavour, how to handle the dough, how to manage proper fermentation...  
 Bread baking is a truly delicious hobby.
 
 ## What I learned from baking bread :
@@ -29,7 +30,7 @@ Life is sometimes unpredictable, there is no step by step guide to success, and 
 
 ## Guides :
 
-##### Understanding Baker's percentage :
+##### Understanding Baker's percentage and how to read bread recipes :
 [bakers_percentage.md](guides/bakers_percentage.md)
 
 ##### What I use to make bread :  
@@ -50,7 +51,8 @@ Life is sometimes unpredictable, there is no step by step guide to success, and 
 ##### Naan bread :
 [in progress]
 
-## Helper scripts to make baking easier :
+## Helper scripts for bread baking :
+I would like to write programs to assist the bread making process (like planning or analyzing previous bakes to gain experience) and make it more accessible.
 
 ##### Planner for feeding your starter :
 [in progress]
@@ -61,3 +63,21 @@ Life is sometimes unpredictable, there is no step by step guide to success, and 
 - [The Perfect Loaf](https://www.theperfectloaf.com/)
 - [The Fresh Loaf](https://www.thefreshloaf.com/)
 - [Full Proof Baking](https://www.youtube.com/channel/UCym_8JHA4htlFLIHGpNZGrQ)
+
+## Other content :
+Has bread making peaked your interest for other fermented foods ?
+I will write my experiences with making other types of fermented food.
+- kimchi (Korean fermentedspicy cabbage)
+- saurkraut (fermented cabbage)
+- miso (japanese fermented soybean paste)
+- kombucha (fermented tea beverage)
+- water kefir (fermented beverage)
+- kvass (fermented bread beverage)
+- tepache (Mexican fermented pinaple beverage)
+- ginger beer (fermented ginger beverage)
+- beer (fermented cereals beverage)
+- sake (fermented rice wine)
+- natto (fermented soybeans)
+- amazake (fermented rice porridge)
+- koji (rice with Aspergillus oryzae)
+- menma (fermented bamboo shoots)
