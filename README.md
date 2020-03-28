@@ -28,7 +28,7 @@ When baking bread, I consider time as an ingredient and I don't start by gatheri
 ##### Adaptability :
 Life is sometimes unpredictable, there is no step by step guide to success, and so is bread. So... I lied when I compared recipes to algorithms, following a bread recipe won't give you the promised result, making bread is all about observing how the dough changes over time and adapting your actions. The journey of understanding how to read your dough and how to perfect your bread a long but very rewarding.
 
-## http://docs.getpelican.com/en/3.6.3/quickstart.htmlGuides :
+## Guides :
 
 ##### Understanding Baker's percentage and how to read bread recipes :
 [bakers_percentage.md](guides/bakers_percentage.md)
