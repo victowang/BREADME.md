@@ -9,7 +9,7 @@ My sourdough starter is 30% rye 70% wheat.
 
 ### Ingredients :
 - 150g stale sourdough bread, 110g after toasting
-- 50 g honey
+- 60 g honey
 - 1 tsp sourdough starter
 - 1L water
 
@@ -17,7 +17,7 @@ My sourdough starter is 30% rye 70% wheat.
 
 - Cut bread into cubes and toast in oven at 200°C untill dry and colored.  
 - Add 1L of boiling water to your toasted bread and let sit for 4-24 hours.  
-- Strain the liquid and add honey and starter to the liquid.  
+- Strain the liquid and add honey and starter to the liquid. As the bread soaked up quite a bit of water, I could only extract 600ml from 1L of input water, so I scaled down the amount of sugar to 36g of honey and about half a teaspoon of sourdough starter.  
 - Put in your fermentation container, I use glass preserving jars without the rubber seal, so that the produced gas can escape ( no risk of explosion ) and very little outside air can enter (reduce spoilage risks)
 - Let it sir in a warm place out of direct sunlight for about a week
 - Strain again and put in glass bottles, you can add a few raisins in each bottle : it provides some extra sugar for the yeast to feed on and produce more carbonation in the final drink.
