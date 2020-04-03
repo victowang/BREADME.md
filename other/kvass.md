@@ -20,5 +20,6 @@ My sourdough starter is 30% rye 70% wheat.
 - Strain the liquid and add honey and starter to the liquid.  
 - Put in your fermentation container, I use glass preserving jars without the rubber seal, so that the produced gas can escape ( no risk of explosion ) and very little outside air can enter (reduce spoilage risks)
 - Let it sir in a warm place out of direct sunlight for about a week (I did 5 days, it should foam on the surface, have very little sweetness left and should be able to smell alcohol)
-- Strain again and put in glass bottles, you can add a few raisins in each bottle : it provides some extra sugar for the yeast to feed on and produce more carbonation in the final drink.
+- Strain again and put in glass bottles (pressure-safe flip top bottles or beer bottles), you can add a few raisins in each bottle : it provides some extra sugar for the yeast to feed on and produce more carbonation in the final drink.
+- Let is sit one day at room temperature so it can produce some CO2 in a closed envitonment this time.
 - Store in the fridge (CO2 is more soluble in colder water so you should get a fizzier drink and it the cold slows down the fermentation for storage) and consume within a fewdays, as the drink should become incresingly sour (acid producing bacteria are still active in colder environments).
