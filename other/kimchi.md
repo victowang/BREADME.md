@@ -1,6 +1,7 @@
 # Kimchi
+The fermentation process is similar to saurkraut, but it uses chinese cabbage is fermented with Korean red pepper flakes to have a spicy and tangy result. 
 
-# Ingredients
+## Ingredients
 - Chinese/Nappa cabbage
 - Salt
 - Gochugaru (Korean pepper flakes)
@@ -14,11 +15,11 @@
 - Apple/nashi pear (optional but highly recommended)
 - Carrots (optional)
 
-## Notes
+### Notes
 
 Some recipes use fish sauce and fermented shrinp paste, I don't use them.  
 Traditionally they also use a paste made from rice flour and water so that the seasoning sticks to the cabbage.
-# Method
+## Method
 - Cut the cabbage into small pieces (traditionally it is cut into 2 or 4 large pieces but I want bite size pieces that I don't have to cut each time I want to eat some)
 
 - In a large bowl, massage the salt into the cabbage, then let it sit for a few hours

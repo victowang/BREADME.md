@@ -3,7 +3,7 @@
 Kombucha is a fermented drink made from sweetened tea, I prefer using green tea but you can use any kind of unflavoured tea (black tea, oolong...).
 
 ## Requirements
-To make kombucha, you need a starter culture often colled a SCOBY (Symbiotic Culture Of Bacteria and Yeast), it looks like a floating disk. Ideally you can get one from someone who has some to share, or you can buy it online or grow it from a store bought bottle on unpasturized kombucha (google it). 
+To make kombucha, you need a starter culture often colled a SCOBY (Symbiotic Culture Of Bacteria and Yeast), it looks like a floating disk. Ideally you can get one from someone who has some to share, or you can buy it online or grow it from a store bought bottle on unpasteurized kombucha (google it). 
 
 You also need a container to ferment in, for small batched you can use straight sided glass containers, for bigger batches you can use a large glass drink dispenser.
 
