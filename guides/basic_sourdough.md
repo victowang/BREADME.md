@@ -14,8 +14,9 @@ The recipe is scaled for a loaf made with 500g of flour.
 
 #### Notes :
 * If you are just starting, reduce the hydration to around 65%, it will make the dough less sticky and easier to handle.   
-* If using bread flour (T65) instead of all-purpose flour, you might want to increase the hydration to get the same consistency, about 75% hydration.
+* If using bread flour (T65) instead of all-purpose flour, you might want to increase the hydration to get the same consistency.
 * If using more whole-wheat flour, use more water and be more gentle with the dough as it will be less extensible and might tear if stretched too much.
+* I usually do all the proofing at room temperature in the kitchen (between 15°C and 20°C), and works well in winter because the bulk proof is long enough to have well fermented dough even at slightly lower temperatures. It might need some tweaking for summer or warmer climates, reducing the amount of starter or using colder water could help if the dough is overfermented (fermentation will evnetually bread down the gluten and the dough will lose strenght). 
 
 ## Schedule
 The making of this loaf is split in two days. Let's say that day **d** is the day you want the bread to be baked. Here is a typycal schedule that I would follow :
@@ -39,7 +40,7 @@ The making of this loaf is split in two days. Let's say that day **d** is the da
 #### Notes :
 * On __d-1__ the given time __7 p.m.__ is not important , you can start anywhere between 6 p.m and 9 p.m. with similar results. You just need to have enough time to give the dough a few S&F to impart some strenght to the dough.
 * On __d-0__ if you don't feel like waking up early to shape the dough you can do it a little bit later, I have shaped the dough at 9 a.m ~ 9:30 a.m. whithout problems. If you are and early bird you can also do it earlier, you might even get better results because the bulk fermentation is probably too long.
-* I usually do all the proofing at room temperature in the kitchen (between 15°C and 20°C), and works well in winter because the bulk proof is long enough to have well fermented dough even at slightly lower temperatures. It might need some tweaking for summer or warmer climates, reducing the amount of starter could help if the dough is overfermented (fermentation will evnetually bread down the gluten and the dough will lose strenght). 
+
 ## Detailed steps :
 
 ### Mixing :

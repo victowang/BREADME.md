@@ -29,3 +29,16 @@ Yields about 600g is end product.
 I was too lasy to use a cloth to properly filter the liquid before bottling, so I had a lot of deposit at the bottom of the bottle, don't do that.
 
 The drink was quite fizzy (I spilled some when opening the bottle), when tasting, I felt some saltiness at first and then it felt like a light and sour beer. The sourness increses the next day. If you resude the fermentation time, you could have some sweetness left.
+
+## Second attempt :
+This time I wanted to go the traditional route : 100% rye bread and rye sourdough starter, I also doubled the batch
+
+### Ingredients :
+- 300g rye sourdough bread, 200g after toasting
+- 100 g honey/sugar (or mix)
+- 2 tsp sourdough starter
+- 2L water
+
+## Flavourings (Added when soaking the bread) :
+- zest from half an orange
+- half a teaspoon of whole corriander seeds
