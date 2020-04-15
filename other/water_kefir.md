@@ -2,7 +2,7 @@
 Water kefir is a fermented drink made using small grains of bacteria and yeast, you can get them from someone who makes kefir or buy them online.
 
 ## Requirements
-
+Activate your grains
 
 
 ## Ingredients
@@ -32,5 +32,6 @@ Here are some flavourings that I like :
 - Ginger
 
 ## Notes
-- After each batch, the grains will grow, you can store then in the fridge in sweetened water, share them with your friends :)
+- After each batch, the grains will grow, share them with your friends :)
+- You can store your grains at room temperature by changing sweetened water once a day, or once a week in the fridge
 - You can find ways to use the grains, like adding them to smoothies for a probiotic boost

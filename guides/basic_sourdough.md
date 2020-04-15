@@ -41,6 +41,12 @@ The making of this loaf is split in two days. Let's say that day **d** is the da
 * On __d-1__ the given time __7 p.m.__ is not important , you can start anywhere between 6 p.m and 9 p.m. with similar results. You just need to have enough time to give the dough a few S&F to impart some strenght to the dough.
 * On __d-0__ if you don't feel like waking up early to shape the dough you can do it a little bit later, I have shaped the dough at 9 a.m ~ 9:30 a.m. whithout problems. If you are and early bird you can also do it earlier, you might even get better results because the bulk fermentation is probably too long.
 
+### Alternative schedule (not tested)
+If you are someone who likes to get up early, this could be suited for you :
+Start a earlier than the regular schedule or proof in a warmer place (proofer, oven with a light on / pan of warm water) so that your bulk fermentation is finished in the evening, you can shape the bread before going to bed and retard it in the fridge. The next day, get up early and bake the loaf straight out of the fridge.
+
+this schedule might yield better results as you can actually monitor the dough during bulk fermentation and shape it before it become too frigile.
+
 ## Detailed steps :
 
 ### Mixing :
