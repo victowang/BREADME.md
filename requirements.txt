@@ -1,8 +1,8 @@
-hands==2
-mixing_bowl==1
-scale==1
-dutch_oven==1
-oven==1
-dough_scraper==1
-razor_blade>=1
-banneton>=1
+hands
+mixing_bowl
+scale
+dutch_oven
+oven
+dough_scraper
+razor_blade
+banneton

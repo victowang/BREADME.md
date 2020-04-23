@@ -28,4 +28,12 @@ Yields about 600g is end product.
 ### Result :
 I was too lasy to use a cloth to properly filter the liquid before bottling, so I had a lot of deposit at the bottom of the bottle, don't do that.
 
-The drink was quite fizzy (I spilled some when opening the bottle), when tasting, I felt some saltiness at first and then it felt like a light and sour beer. The sourness increses the next day. If you resude the fermentation time, you could have some sweetness left.
+The drink was quite fizzy (I spilled some when opening the bottle), it tasted slightly salty, sour and like a light beer. The sourness incresed the next day. If you reduce the fermentation time, you could have some sweetness left.
+
+### Notes for next time :
+* Try using less salt in the bread if made with the intent of making kvass
+* Try using rye bread & starter for a more traditional kvass
+* Try using sugar or a combination of sugar and honey
+* Try toasting more or less and see how it affects the flafour and colour
+* Try leaving the bread to ferment in the liquid until bottling (more flavour?)
+* Try adding flavouring elements : lemon zest, hops, pine, berries, raisins...
