@@ -2,7 +2,7 @@
 
 Making a sourdough starter is simple, it only takes flour, water and time. You want to create a nice environment with plenty of food for good yeast and bacteria. 
 
-Do not freak out about this being dangerous for your health, the bacteria we are trying to get are a strain of lactobacilius (like the ones used in yogurt) and the yeast are similar to commercial yeast but are a bit slower. Plus the starter will become acidic, which makes it unwelcomng for bad microbes. Plus your starter should ends up in cooked so nothing to worry about.  
+The bacteria we are trying to get are a strain of lactobacilius ( like the ones used in yogurt which are harmless ) and wild yeast. The starter will become acidic, which makes it unwelcomng for harmful microbes.
 
 The wild yeast and bacteria are not hard to find, they are everywhere : in flour, in the air and on your hands.
 
@@ -11,9 +11,9 @@ We also want it to be in a warm place, preferably between 20°C and 25°C and ou
 
 You can use any flour, but it is preferable to start with organic whole wheat flour as organic flour is more likely to contain living wild yeast and whole wheat has more nutrients and makes the process faster and more likely to succeed.
 
-To make the starter more welcoming, it is best to use unchlorinated water, so let water sit uncovered for a few hours or use filtered/bottles water.
+Tap water contains chlorine, which is good for making water safe to drink, you when we want to raise micro-organisms, it isn't our friend. You can let tap water sit uncovered for a few hours for the chlorine to evaporate or use bottled water.
 
-We will be judging the state of our new starter with our smell and by looking at how much is increases in volume between each feed.
+We will be judging the state of our new starter by smell and by looking at how much it increases in volume between each feed.
 
 ### Start :
 - Mix 20g flour and 20g water in a jar/bowl, cover it with a cloth attached with a string/rubber band so that it can breathe.   
