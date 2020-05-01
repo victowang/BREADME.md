@@ -14,8 +14,7 @@ The recipe is scaled for a loaf made with 500g of flour.
 
 #### Notes :
 * If you are just starting, reduce the hydration to around 65%, it will make the dough less sticky and easier to handle.   
-* If using bread flour (T65) instead of all-purpose flour, you might want to increase the hydration to get the same consistency.
-* If using more whole-wheat flour, use more water and be more gentle with the dough as it will be less extensible and might tear if stretched too much.
+* If using bread flour instead of all-purpose flour or more whole-wheat flour, you might want to increase the hydration to get the same consistency.
 * I usually do all the proofing at room temperature in the kitchen (between 15°C and 20°C), and works well in winter because the bulk proof is long enough to have well fermented dough even at slightly lower temperatures. It might need some tweaking for summer or warmer climates, reducing the amount of starter or using colder water could help if the dough is overfermented (fermentation will evnetually bread down the gluten and the dough will lose strenght). 
 
 ## Schedule
@@ -35,22 +34,22 @@ The making of this loaf is split in two days. Let's say that day **d** is the da
 ### d-0 : 
 * __8 a.m. :__ divide (if making more than one loaf) and preshape
 * __8:30 a.m. :__ final shaping
+* __11 a.m. :__ Put the dough in the fridge to firm up, it will make scoring easier and preheat your oven
 * __12 a.m. :__ bake, if retarting, bake when you are available in the evening 
 
 #### Notes :
-* On __d-1__ the given time __7 p.m.__ is not important , you can start anywhere between 6 p.m and 9 p.m. with similar results. You just need to have enough time to give the dough a few S&F to impart some strenght to the dough.
+* On __d-1__ the given time __7 p.m.__ is not important , you can start a few hours earlier or later with similar results.
 * On __d-0__ if you don't feel like waking up early to shape the dough you can do it a little bit later, I have shaped the dough at 9 a.m ~ 9:30 a.m. whithout problems. If you are and early bird you can also do it earlier, you might even get better results because the bulk fermentation is probably too long.
 
 ### Alternative schedule (not tested)
 If you are someone who likes to get up early, this could be suited for you :
-Start a earlier than the regular schedule or proof in a warmer place (proofer, oven with a light on / pan of warm water) so that your bulk fermentation is finished in the evening, you can shape the bread before going to bed and retard it in the fridge. The next day, get up early and bake the loaf straight out of the fridge.
+Start a earlier than the regular schedule / proof in a warmer place / increase the amount of starter so that your bulk fermentation is finished in the evening, you can shape the bread before going to bed and retard it in the fridge. The next day, get up early and bake the loaf straight out of the fridge.
 
 this schedule might yield better results as you can actually monitor the dough during bulk fermentation and shape it before it become too frigile.
 
 ## Detailed steps :
 
 ### Mixing :
-Many great bakers have a slightly more complicated process : first mix just the flour and water and let it rest (this resting time is called autolyse) before adding the salt and the starter (salt slows down the enzymatic processes that we want during the autolyse and the living starter doesn't really like being in direct contact with salt).  
 In my experiences, I haven't seen significant improvements to the results when adding ingredients in stages, so for the sake of making it easier : just mix all the ingredients in a large bowl until homogeneous and all the flour is hydrated.  
 We are not trying to knead the dough yet, the just-mixed dough is weak (tears easily) and sticky. Letting it rest for 30min ~ 1h will hydrate the flour, making it much easier to handle.
 
@@ -58,10 +57,11 @@ We are not trying to knead the dough yet, the just-mixed dough is weak (tears ea
 Because we've let the dough rest, it should now be pretty extensible. I like to work the dough with a scooping motion with my hand, I aquired this method from watching this [video](https://www.youtube.com/watch?v=zgz0oAhgwyg&t=331s) from Trevor J. Wilson. Within a minute, the dough should become smooth but still sticky, stop working the dough before it's surface starts to tear. Now let it rest, we will add strengh to the dough with the next steps : Stretch & Fold 
 
 ### Stretch & Fold :
-If we imagine that the gluten in the dough is like strings, we want to make a strong layered mesh like structure. Folding the dough on itself will add layers of organized gluten strands and make it (expotentially ?) stronger. We only want to do it a few times at once so that we to put too much strain on the dough and tear the gluten strands, so let it rest 30 min to 1h between each set of stretch and folds.  
+If we imagine that the gluten in the dough is like strings, we want to make a strong layered mesh like structure. Folding the dough on itself will add layers of organized gluten strands and make it stronger.
 To do it: 
-Slide a wet hand under one side of the dough, pull it up and fold it onto the dough.
-Repeat with the three remaining sides.
+- Slide a wet hand under one side of the dough, pull it up and fold it onto the dough.
+- Repeat with the three remaining sides.
+- Let it rest 30 min to 1h between each set of stretch and folds.  
 
 You can perform fewer Stretch & Fold or skip them if you wish to get make the process simpler. The result might be a little bit less pretty : it may have a smaller oven spring (how much is grows when baking), look less round and have a tighter crumb. I find satisfaction in seeing a beautiful looking loaf coming out of the oven and I am always exited to slice it to see the crumb. It is worth the effort for me but if you are busy (or lazy) feel free to skip this step.
 

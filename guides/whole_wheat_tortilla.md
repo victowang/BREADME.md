@@ -13,5 +13,3 @@ Depending of the flour you are using, you want to be around 60% hydration taking
 - Roll into a thin sheet on a floured surface and cut into disks (I use a cookie cutter) or divide into small pieced and roll into thin disks
 - Cook in a pan without oil, flip when you see bubbles forming
 - Reroll the reamaining dough as many times as needed
-
-If you are careful, you can roll and cut them while cooking them as yo make them.
