@@ -1,7 +1,7 @@
 # Sourdough loaf with millet porridge
 
 Recipe from Tartine Book N°3
-To fit my dough handdling skills I will reduce the hydration from the original recipe ( 65% instead of 75%).
+To fit my dough handdling skills I reduced the hydration from the original recipe ( which was 75%).
 
 ## Ingredients
 - 400g Bread flour (T65) (80%)
@@ -19,15 +19,22 @@ To fit my dough handdling skills I will reduce the hydration from the original r
 
 ### Making the dough
 I did the same as described in the basic sourdough method except :
-- Mix the porridge in the dough at the second S&F
-- After shaping, coat the unfloured dough with raw millet (optionnal)
+- Mix the porridge in the dough at the second S&F, it will be difficult to mix in but it doesn't have to be even at first as it will even out after a few folds. Stop when all the millet is in the dough and there are no free grains at the bottom of your bowl, then proceed to the usual stretch and folds every 30 min.
+- After shaping, coat the unfloured dough with raw millet (optionnal but makes it pretty and adds a lot of crunch)
 
 ### Notes
-- 30min between preshape and shape (8h30 - 9h00)
+
+##### First attempt : 65 % hydration  
+- The dough was stiff therefore hard to mix without tearing, but the shaping was easy 
 - Final proof 2h40 at room temperature (baked at 11h40)
 - Forgot to put the dough in the fridge so it was difficult to score
-- Preheated at 250°C, 30 min at 225°C, 25 min at 200°C
-- With the 65% hydration, the load was difficult to mix mithout tearing, but was easy to shape and turned out good. Slightly increase the hydration next time (70% ?)
+- Baking : oven preheated at 250°C, 30 min at 225°C, 25 min at 200°C
+- Once baked it had a nice round shape
+
+##### Second attempt : 70 % hydration  
+- The dough was nice when mixing and folding, but was difficult to shape it as the millet grains create many weak points in the gluten structure and it tears easily.
+- When transfering for baking, the dough came out of the banneton a bit runny
 
 ## Results
 Decent oven spring and an even crumb, a lot a crunchyness from the coated crust, the flavour of millet in the bread is actually quite subtle.
+I'll go for 65% hydration for future loaves, but it might vary depending on your flour and wholo-wheat ratio as well as how much water in left in your porridge. Might try to reduce the whole-wheat flour to 10% to get a stronger dough.

@@ -126,3 +126,13 @@ Add them after kneading the dough and mix until evenly dispersed.
 Sprinkle them on the shaped dough or roll the dough in them
 - rolled oats
 - seeds
+
+## Conclusion :
+The strenght of this recipe is that you don't need to have a super strong starter (some use feed their starter at 1:2:2 or more to get a starter that triples in size) and is timed by you schedule rather than having to closely monitor the dough.  
+
+But this simplicity has a cost : The bulk proof has a very long part (when you are sleeping) without stretch and folds to add strenght, therefore in the morning, the dough is totally relaxed, maybe too much. Preshaping is important to counter this problem.
+
+Also, if your starter is one that is very very active, it might not be compatible with this method as you could end up with an overfermented dough in the morning, if the gluten is degraded, you will end up with a soupy mess that is hard to save. I once had trouble making bread with this method but with a 100% rye starter as if fermented faster than usual.
+
+In this situation, I would recommend to embrace the fast activity and try to end the bulk and shape the dough before going to bed, You should shape the dough when is starts to be bubbly and has increased 30% to 50% in volume (instead of about 100% increase if left overnight), at this point the dough should be stronger and easier to shape.
+then place the dough in a cold fridge overnight. Bake it in the morning or whenever available. I have not tested this yet !
