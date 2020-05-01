@@ -17,7 +17,7 @@ We will be judging the state of our new starter by smell and by looking at how m
 
 ### Start :
 - Mix 20g flour and 20g water in a jar/bowl, cover it with a cloth attached with a string/rubber band so that it can breathe.   
-- Let it sit for 24 hours.
+- Let it sit for 1 to 3 days or until you start to see some bubbles.
 
 ### Every day :
 Discard half of you starter and add 10g flour 10g water (2:1:1 ratio).

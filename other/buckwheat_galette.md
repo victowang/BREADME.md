@@ -12,7 +12,7 @@ Yields about x (to be determined)  medium sized galettes
 
 ## Method 
 * Mix the flour, starter and two thirds of the water, you shound get a pancake batter consistency
-* Let it ferment covered for 24 hours, it should befome foamy.
+* Let it ferment covered for 12-24 hours, it should become foamy. The longer you let it ferment, the more acidity will develop.
 * Add the salt and remaining starter slowly and judge the consistency, you should get a pretty thin batter
 * Let it sit for 1h
 * Before cooking, gently stir to make the batter homogenous
