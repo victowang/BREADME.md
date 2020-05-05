@@ -1,4 +1,6 @@
-# Fifty-fifty sourdough bread
+# Fifty percent whole-wheat sourdough bread
+
+<img src="/imgs/50_percent_ww.jpg" alt="fifty percent whole wheat"	width="50%" />  
 
 Here we are tuning the process of the [basic sourdough bread](basic_sourdough.md) to make a loaf using 50% whole grains.
 
