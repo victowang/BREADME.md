@@ -2,7 +2,7 @@
 
 Kvass is a fermented drink that is popular in Eastern Europe, it is made by extracting sugars from rye bread and fermenting it to produce a drink similar to beer. As I choose to innoculate it with sourdough starter, the result should have a low alcohol content and be sour. Using commercial yeast should make an end product closer to beer, with a higher alcohol content and be less sour. 
 
-![](https://github.com/victowang/BREADME.md/blob/master/imgs/kvass_5.jpg)
+<img src="/imgs/kvass_5.jpg" alt="kvass_5"	width="19%" style="  display: block;  margin-left: auto;  margin-right: auto;  width: 50%;" />  
 
 ## First attempt :
 I only had regular white sourdough bread on hand so this is what I used instead of the traditionnal rye.
