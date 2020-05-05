@@ -2,8 +2,9 @@
 
 Kvass is a fermented drink that is popular in Eastern Europe, it is made by extracting sugars from rye bread and fermenting it to produce a drink similar to beer. As I choose to innoculate it with sourdough starter, the result should have a low alcohol content and be sour. Using commercial yeast should make an end product closer to beer, with a higher alcohol content and be less sour. 
 <p align="center"> 
-<img src="/imgs/kvass_5.jpg" alt="kvass_5"	width="30%"/>  
+<img src="/imgs/kvass_5.jpg" alt="kvass_5"	width="30%"/> 
 </p>
+
 ## First attempt :
 I only had regular white sourdough bread on hand so this is what I used instead of the traditionnal rye.
 My sourdough starter is 30% rye 70% wheat.
@@ -57,7 +58,12 @@ I think you could add the sugar and honey when soaking, but I don't like the ide
 - zest from half an orange
 - half a teaspoon of whole corriander seeds
 
-### Result
+### Result :
+
+<p align="center"> 
+<img src="/imgs/kvass_6.jpg" alt="kvass_6"	width="30%"/> 
+</p>
+
 While fermenting, the kvass had a strong rye bread smell that reminded me of candied orange.
 
 The fermentation went much faster this time, after 2,5 days it tasted sour and has no sweetness left, it had a slight alcohol smell (less than the previous batch).
@@ -68,7 +74,7 @@ I decided to add 1g of sugar per liter of kvass before bottling (similar to what
 
 As it tasted sour enough before bottling, I skipped the day of fermentation at room temperature and put them staight into the fridge
 
-### Notes on straining
+### Notes on straining :
 I kinda messed up when bottling, I tried to filter with a cloth, but it got clogged pretty fast and I had stirred the kvass to add sugar in it before bottling so all the sediments were mixed in the kvass and I  couldn't filter it out.
 
 My mesh strainer is not fine enough to filter all the small particules in the kvass and when trying to use a clothdidn't work for me.
@@ -77,6 +83,7 @@ The best option for get a clearer result would be to not stir the kvass before b
 
 I have read that the deposit at the bottom can be used as a kvass starter instead of sourdough starter, store it in the fridge in sweetened water until needed, you might need to refresh it with sweeteded water once a week like when storing water kefir grains.
 
-# Future notes
-- Try flavouring with hops or pine
+# Future notes :
+- Try toasting the bread more and see how it affects the colour and flavour
+- Try flavouring with fruits / herbs
 - Use more sugar and let it ferment longer if a more alcoholic beverage is desired, but the sourness will probably increase as well
