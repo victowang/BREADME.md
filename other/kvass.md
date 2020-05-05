@@ -2,7 +2,7 @@
 
 Kvass is a fermented drink that is popular in Eastern Europe, it is made by extracting sugars from rye bread and fermenting it to produce a drink similar to beer. As I choose to innoculate it with sourdough starter, the result should have a low alcohol content and be sour. Using commercial yeast should make an end product closer to beer, with a higher alcohol content and be less sour. 
 
-<img src="/imgs/kvass_5.jpg" alt="kvass_5"	width="50%" /> 
+![](https://github.com/victowang/BREADME.md/blob/master/imgs/kvass_5.jpg)
 
 ## First attempt :
 I only had regular white sourdough bread on hand so this is what I used instead of the traditionnal rye.
@@ -28,11 +28,13 @@ Yields about 600g is end product.
 - Store in the fridge (CO2 is more soluble in colder water so you should get a fizzier drink and it the cold slows down the fermentation for storage) and consume within a fewdays, as the drink should become incresingly sour (acid producing bacteria are still active in colder environments).
 
 ### Images :
-<img src="/imgs/kvass_0.jpg" alt="kvass_0"	width="20%" />  
-<img src="/imgs/kvass_1.jpg" alt="kvass_1"	width="20%" />  
-<img src="/imgs/kvass_2.jpg" alt="kvass_2"	width="20%" />  
-<img src="/imgs/kvass_3.jpg" alt="kvass_3"	width="20%" />  
-<img src="/imgs/kvass_4.jpg" alt="kvass_4"	width="20%" />  
+<div style="display:inline-block">
+<img src="/imgs/kvass_0.jpg" alt="kvass_0"	width="19%" />  
+<img src="/imgs/kvass_1.jpg" alt="kvass_1"	width="19%" />  
+<img src="/imgs/kvass_2.jpg" alt="kvass_2"	width="19%" />  
+<img src="/imgs/kvass_3.jpg" alt="kvass_3"	width="19%" />  
+<img src="/imgs/kvass_4.jpg" alt="kvass_4"	width="19%" />  
+</div>
 
 ### Result :
 I was too lasy to use a cloth to properly filter the liquid before bottling, so I had a lot of deposit at the bottom of the bottle, don't do that.
