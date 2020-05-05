@@ -11,6 +11,9 @@ I made half of the recipe, changes the levain build to adapt it to my feeding ra
 - 30g butter
 - 120g mature starter
 
+## Note
+I reduce de percieved hydration by substituting some of the AP flour with 10-15% WW flour
+
 ## Building the levain
 
 ## d-1 :
@@ -20,13 +23,13 @@ I made half of the recipe, changes the levain build to adapt it to my feeding ra
 ## Alcaline bath :
 Instead of dipping the dough in lye water, I boiled it for 30s in water with baking soda.
 - 1L water
-- 30g baking soda
+- 30g baking soda (baked baking soda gives a slightly better color once cooked)
 
 ## Notes
 - I did the bulk proof in a warm oven
 - I used all purpose flour, so my flour had less gluten and was less thirsty than what the recipe used, therefore I had a dough that was probably stickier than intended. May reduce the water content or chill the dough before dividing and shaping to make it firmer.
 - Going with 10% whole-wheat could decrease the stickiness while adding flavour and nutrition
-- Baked 13 min at 225°C
+- Baked 13-14 min at 225°C
 
 ## Result :
 Very tasty fresh while still warm, crispy on the outside, warm and fluffy on the inside. I ate it with homemade fermented mustard (which was a bit too spicy for me).

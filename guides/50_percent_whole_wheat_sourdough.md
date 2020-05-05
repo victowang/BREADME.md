@@ -30,4 +30,4 @@ The schedule is similar to the regular sourdough, it just starts a few hours ear
 
 ## Result
 The resulting bread should have a slightly tighter bot more even crumb, the color a bit darker and the texture should be softer. 
-If done again I might reduce the hydration slightly as I found the dough a bit loose when shaping. Propbly something between 75% and 80% hydration.
+If done again I might reduce the hydration slightly as I found the dough a bit loose when shaping. Propbly something between 70% and 75% hydration.
